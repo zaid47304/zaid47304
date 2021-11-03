@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbuZaid
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning node.js and react.js
-- 💞️ I’m looking to collaborate on wed developement 
+- 💞️ I’m looking to collaborate on web developement 
 - 📫 Connect with me @zaid47304@gmail.com
 
 <!---
