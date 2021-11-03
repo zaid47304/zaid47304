@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning node.js and react.js
 - 💞️ I’m looking to collaborate on web developement 
-- 📫 Connect with me @zaid47304@gmail.com
+- 📫 Connect with me mail-zaid47304@gmail.com
 
 <!---
 zaid47304/zaid47304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
